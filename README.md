@@ -3,6 +3,7 @@
 [Metabase](https://www.metabase.com) is the easy, open-source way for everyone in your company to ask questions and learn from data.
 
 ![Metabase Product Screenshot](https://www.metabase.com/images/metabase-product-screenshot-updated.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fmetabase.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fmetabase?ref=badge_shield)
 
 [![Latest Release](https://img.shields.io/github/release/metabase/metabase.svg?label=latest%20release)](https://github.com/metabase/metabase/releases)
 [![codecov](https://codecov.io/gh/metabase/metabase/branch/master/graph/badge.svg)](https://codecov.io/gh/metabase/metabase)
@@ -67,6 +68,9 @@ This repository contains the source code for both the Open Source edition of Met
 See [LICENSE.txt](./LICENSE.txt) for details.
 
 Unless otherwise noted, all files © 2026 Metabase, Inc.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fmetabase.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fmetabase?ref=badge_large)
 
 ## Community
 
